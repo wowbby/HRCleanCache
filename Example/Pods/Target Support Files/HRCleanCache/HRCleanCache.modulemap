@@ -1,0 +1,6 @@
+framework module HRCleanCache {
+  umbrella header "HRCleanCache-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - HRCleanCache (0.1.0)
+
+DEPENDENCIES:
+  - HRCleanCache (from `../`)
+
+EXTERNAL SOURCES:
+  HRCleanCache:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HRCleanCache: ea5ae930606e44fe71e3a2c920d958ac959f49c5
+
+PODFILE CHECKSUM: 93717ac29b63a6ceec87d762747e40c231a51807
+
+COCOAPODS: 1.4.0
